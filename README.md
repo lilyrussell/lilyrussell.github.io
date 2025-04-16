@@ -18,13 +18,13 @@ Designed and implemented a fully automated system to support student consultatio
 - After a completed consultation, then follow-up surveys are scheduled to automatically send at one week and one month later.
 - When exceptions or errors occur, then backup and on-demand flows can be used to manually trigger core processes, ensuring continuity.
 
-
 ### 📈 Results
-| Metric | Result |
-|--------|--------|
-| Response time | From about 1 day to under 1 hour |
-| Consult scalability | Increased by 300% |
-| Staff documentation time | Reduced by 80% |
+
+| Metric                  | Result                              |
+|-------------------------|-------------------------------------|
+| Response time           | From about 1 day to under 1 hour    |
+| Consult scalability     | Increased by 300%                   |
+| Staff documentation time| Reduced by 80%                      |
 
 ---
 
