@@ -1,4 +1,4 @@
-# Lily Russell – Technical Portfolio
+# Lily Russell, Professional Portfolio
 
 Welcome! I'm a systems-oriented problem solver with a background in educational services and a growing skill set in automation, data workflows, and process design. My work bridges people and platforms to translate human needs into scalable technical solutions.
 
