@@ -2,12 +2,14 @@
 layout: default
 title: Home
 ---
+
+# Lily Russell, Professional Portfolio
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/lilyrussell/lilyrussell.github.io/refs/heads/main/LA4_2880.jpeg" alt="Lily Russell" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 </p>
 <p align="center"><em>Hi, I'm Lily! Welcome to my portfolio!</em></p>
 
-# Lily Russell, Professional Portfolio
 Welcome! I'm a systems-oriented problem solver with a background in educational services and a growing skill set in automation, data workflows, and process design. My work bridges people and platforms to translate human needs into scalable technical solutions.
 
 ---
