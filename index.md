@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <p align="center">
-  <img src="assets/images/lily_profile.jpg/LA4_2880.jpeg" alt="Lily Russell" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/lilyrussell/lilyrussell.github.io/refs/heads/main/LA4_2880.jpeg" alt="Lily Russell" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 </p>
 <p align="center"><em>Hi, I'm Lily! Welcome to my portfolio!</em></p>
 
