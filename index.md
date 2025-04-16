@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+<p align="center">
+  <img src="assets/images/lily_profile.jpg" alt="Lily Russell" width="200" style="border-radius: 50%;">
+</p>
+<p align="center"><em>Hi, I'm Lily! Welcome to my portfolio!</em></p>
 
 # Lily Russell, Professional Portfolio
 Welcome! I'm a systems-oriented problem solver with a background in educational services and a growing skill set in automation, data workflows, and process design. My work bridges people and platforms to translate human needs into scalable technical solutions.
